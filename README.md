@@ -19,5 +19,12 @@ Hello! I want to present my project in the form of an adminmenu for administrato
 - The UI color can be changed as you wish
 - UI size that can be changed to any size
 - features can reset settings, force shutdown, and forcibly remove adminmenu directly from ingame
+- 
+**For those of you who are familiar with the adminmenu UI design, MTG MOD and I have been working together to create this project since last year. Here is a preview:**
 
-
+<img src="gam1.jpg" />
+<img src="gam2.jpg" />
+<img src="gam3.jpg" />
+<img src="gam4.jpg" />
+<img src="gam5.jpg" />
+<img src="gam6.jpg" />
